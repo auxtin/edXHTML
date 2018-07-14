@@ -9,15 +9,18 @@
 
  /* space the list items at least 20 pixels from the left edge of the page
  */
+  /* the book titles in the list should not be displayed in a serif font */
  ol{
-     margin-left: 20px
+     margin-left: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
  /* space the list items at least 10 pixels from each other */
 li{
     line-height: 10px
 }
- /* center the header */
+
+/* center the header */
  /* the text of header should be dark red */
   /* the header should use a different font than the list */
  h1{
@@ -30,7 +33,7 @@ li{
 
  /* keep the list at least 50 pixels from the header */
 
- /* the book titles in the list should not be displayed in a serif font */
+
 
 
 
